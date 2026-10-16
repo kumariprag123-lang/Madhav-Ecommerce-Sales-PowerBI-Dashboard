@@ -155,4 +155,5 @@ Customer purchasing patterns.
 Preferred payment methods.
 Sales and profit trends over time.
 Areas where business performance can be improved.
-<img width="912" height="466" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/34ceb7a9-c948-46d1-a83e-1accdb29ded3" />
+<img width="912" height="466" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/c6b0e2f3-b8ad-48aa-aad0-08a653bf8042" />
+
